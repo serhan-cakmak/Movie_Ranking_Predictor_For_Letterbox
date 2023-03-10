@@ -1,5 +1,5 @@
 # Movie Ranking Predictor for Letterboxd
-This Jupyter Notebook provides a machine learning solution for predicting the ranking of a movie on the Letterboxd platform based on its various features.
+This Jupyter Notebook provides a machine learning solution for predicting the ranking of a movie on the Letterboxd platform based on its users' past reviews.
 
 ## Overview
 The notebook is organized as follows:
